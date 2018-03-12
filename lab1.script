@@ -1,0 +1,24 @@
+命令稿啟動於 2018年03月12日 下午 03:28:11
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ who [Kami;pwd
+sisi8
+/home/sisi8
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ git config -l
+user.email=sisi88516@yahoo.com
+user.name=ycc116149
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ git clone https://githuub[K[Kb.com/<ycc116149>/lab.git
+bash: ycc116149: No such file or directory
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ ^C
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ exit
+
+命令稿已於 2018年03月12日 下午 03:31:19
+ 完成
