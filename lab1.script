@@ -1,0 +1,26 @@
+命令稿啟動於 2018年03月13日 下午 12:26:57
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ git confiig [K[K[K[K[K[K[K[K[K[K[K[Kwho [Kami;pwd
+sisi8
+/home/sisi8
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ git config -l
+user.email=changyc880516@gmail.com
+user.name=ycc116149
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ git clone https://git [Khub.com/<ycc116149>/lb[Kab1.git
+bash: ycc116149: No such file or directory
+]0;~
+[32msisi8@DESKTOP-TGFP4PS [33m~[0m
+$ exit
+
+命令稿已於 2018年03月13日 下午 12:28:33
+ 完成
